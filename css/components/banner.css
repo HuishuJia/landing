@@ -1,0 +1,14 @@
+.banner {
+  padding: 140px 100px 100px 100px;
+  background-size: cover;
+  color: rgb(241, 239, 221);
+  text-decoration: none;
+}
+
+.banner a {
+  padding: 8px 40px;
+  background-image: linear-gradient(-20deg, #d558c8 0%, #24d292 100%);
+  font-weight: bolder;
+  color: rgb(241, 239, 221);
+  border-radius: 25px;
+}

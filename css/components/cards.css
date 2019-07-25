@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-one {
+  height: 300px;
+  width: 270px;
+  background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+  margin: 50px;
+}
+
+.card-two {
+  height: 300px;
+  width: 270px;
+  background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+  margin: 50px;
+}
+
+.card-three {
+  height: 300px;
+  width: 270px;
+  background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+  margin: 50px;
+}

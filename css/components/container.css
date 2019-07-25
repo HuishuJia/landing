@@ -1,0 +1,12 @@
+.container {
+  width: 1080px;
+  height: 680px;
+  margin: 0 auto;
+}
+
+.container h2 {
+  margin: 20px auto;
+  color: rgb(241, 239, 221);
+  display: flex;
+  justify-content: space-around;
+}
